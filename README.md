@@ -17,7 +17,8 @@ Here are some screenshots demonstrating different stages of the game:
 
 ### 🟢 Game Start Screen
 The initial interface where the player can start the game.
-![Game Start](C:/Users/user/Desktop/images/start_screen.jpg)
+<img src="C:/Users/user/Desktop/images/start_screen.jpg" alt="Game Start" width="600"/>
+
 
 ---
 
@@ -48,6 +49,13 @@ The child clicks on a wrong object that is far from the target. The feedback sho
 ### 🎉 Final Congratulation Screen
 After correctly identifying all target objects, the child is rewarded with a final “Congratulations” screen.
 ![Congrats Screen](C:/Users/user/Desktop/images/congrats.jpg)
+
+
+## 👥 Team Members
+
+- **Maryam Ahmed**
+- **Mariam Adham**
+- **Marwa Abu-Elkheir**
 
 
 
