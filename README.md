@@ -24,37 +24,43 @@ This project integrates several tools and libraries. You can find the Tkinter in
 Here are some screenshots demonstrating different stages of the game:
 
 ### 🟢 Game Start Screen
-The initial interface where the player can start the game.
+**The initial interface where the player can start the game.**
+
 ![Game Start](/images/start_screen.jpg)
 
 ---
 
 ### 📂 Category Selection
-The player is prompted to select a category of objects (e.g., fruits).
+**The player is prompted to select a category of objects (e.g., fruits).**
+
 ![Category Selection](/images/category_screen.jpg)
 
 ---
 
 ### ✅ Correct Selection
-The child clicks on the correct object as prompted.
+**The child clicks on the correct object as prompted.**
+
 ![Correct Selection](/images/correct_choice.jpg)
 
 ---
 
 ### 🟡 Wrong but Close
-The child clicks on a wrong object, but it’s close to the target. A hint like "You’re close!" appears.
+**The child clicks on a wrong object, but it’s close to the target. A hint like "You’re close!" appears.**
+
 ![Wrong Close](/images/wrong_close_choice.jpg)
 
 ---
 
 ### 🔴 Wrong and Far
-The child clicks on a wrong object that is far from the target. The feedback shows "You’re far!".
+**The child clicks on a wrong object that is far from the target. The feedback shows "You’re far!".**
+
 ![Wrong Far](/images/wrong_far_choice.jpg)
 
 ---
 
 ### 🎉 Final Congratulation Screen
-After correctly identifying all target objects, the child is rewarded with a final “Congratulations” screen.
+**After correctly identifying all target objects, the child is rewarded with a final “Congratulations” screen.**
+
 ![Congrats Screen](/images/congrats.jpg)
 
 
