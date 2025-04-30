@@ -16,7 +16,7 @@ The player selects a challenge type, then extracts specific objects from an imag
 
 This project integrates several tools and libraries. You can find the Tkinter interface repository here:
 
-- [Tkinter Interface Repository]((https://github.com/ParthJadhav/Tkinter-Designer))  
+- [Tkinter Interface Repository](https://github.com/ParthJadhav/Tkinter-Designer)  
 
 
 ## 📸 Demo Screenshots
