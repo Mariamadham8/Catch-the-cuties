@@ -8,6 +8,7 @@ The player selects a challenge type, then extracts specific objects from an imag
 - **Tkinter** – for building the main application interface and windows.
 - **Figma** – for UI/UX design and prototyping.
 - **YOLOv8** – for object detection in scene images.
+- **OpenCV** – for image processing, object localization, and integration between detection and game logic.
 - **Pygame** – for building the game logic and interaction.
 - **A\* Algorithm** – to calculate the distance between the clicked and target objects, and provide feedback like “you’re close” or “you’re far” and the number of steps.
 
